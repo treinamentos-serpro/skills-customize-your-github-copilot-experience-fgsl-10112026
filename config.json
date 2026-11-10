@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "fastapi-api-testing",
+      "title": "Automated Testing for FastAPI",
+      "description": "Test FastAPI CRUD APIs with pytest and TestClient, validate status codes, and isolate in-memory test data.",
+      "path": "assignments/fastapi-api-testing",
+      "dueDate": "2026-11-17",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
